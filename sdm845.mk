@@ -132,6 +132,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     textclassifier.bundle1
 
+# ThermalController app
+PRODUCT_PACKAGES += \
+    ThermalController
+
 # VNDK-SP
 PRODUCT_PACKAGES += \
     vndk-sp
