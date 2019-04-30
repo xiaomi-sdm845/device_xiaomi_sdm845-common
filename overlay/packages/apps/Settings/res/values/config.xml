@@ -2,4 +2,7 @@
 <resources>
     <!-- Device specific doze package -->
     <string name="config_customDozePackage">org.lineageos.settings/org.lineageos.settings.doze.DozeSettingsActivity</string>
+
+    <!-- Whether to show Connected MAC Randomization in Developer Options -->
+    <bool name="config_wifi_support_connected_mac_randomization">true</bool>
 </resources>
