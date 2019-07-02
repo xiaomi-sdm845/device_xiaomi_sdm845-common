@@ -122,6 +122,14 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     textclassifier.bundle1
 
+# ThermalController app
+PRODUCT_PACKAGES += \
+    ThermalController
+
+# Dirac
+PRODUCT_PACKAGES += \
+    Dirac
+
 # VNDK-SP
 PRODUCT_PACKAGES += \
     vndk-sp
@@ -132,7 +140,3 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_BOOT_JARS += \
     WfdCommon
-    
-# ThermalController app
-PRODUCT_PACKAGES += \
-    ThermalController
