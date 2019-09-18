@@ -314,7 +314,3 @@ PRODUCT_PACKAGES += \
     libdisplayconfig \
     libnl \
     libqdMetaData.system
-
-# ThermalController app
-PRODUCT_PACKAGES += \
-    ThermalController
