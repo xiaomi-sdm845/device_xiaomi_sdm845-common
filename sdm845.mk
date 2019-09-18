@@ -326,7 +326,3 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_BOOT_JARS += \
     WfdCommon
-    
-# ThermalController app
-PRODUCT_PACKAGES += \
-    ThermalController
