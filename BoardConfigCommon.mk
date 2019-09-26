@@ -42,7 +42,6 @@ TARGET_KERNEL_ARCH := arm64
 ifeq ($(TARGET_PREBUILT_KERNEL),)
   TARGET_KERNEL_CLANG_COMPILE := true
   TARGET_KERNEL_SOURCE := kernel/xiaomi/sdm845
-  TARGET_KERNEL_CLANG_VERSION := 9.0.5
 endif
 
 # Use Snapdragon LLVM, if available
