@@ -32,6 +32,7 @@ vendor/lib64/libaudioparsers.so
 vendor/lib64/libaudioroute_ext.so
 vendor/lib64/libcsd-client.so
 vendor/lib64/libqtigef.so
+vendor/lib64/libtinycompress.so
 vendor/lib/hw/audio.primary.sdm845.so
 vendor/lib/vndk/libxlog.so
 vendor/lib/libacdb-fts.so
@@ -45,6 +46,7 @@ vendor/lib/libaudioparsers.so
 vendor/lib/libaudioroute_ext.so
 vendor/lib/libcsd-client.so
 vendor/lib/libqtigef.so
+vendor/lib/libtinycompress.so
 
 # Audio FX modules
 etc/permissions/audiosphere.xml
@@ -223,12 +225,14 @@ vendor/bin/mm-pp-dpps
 vendor/bin/ppd
 vendor/etc/init/vendor.display.color@1.0-service.rc
 vendor/lib/libdisp-aba.so
+vendor/lib/libdisplayconfig.so
 vendor/lib/libdisplayqos.so
 vendor/lib/vendor.display.color@1.0.so
 vendor/lib/vendor.display.color@1.1.so
 vendor/lib/vendor.display.color@1.2.so
 vendor/lib/vendor.display.postproc@1.0.so
 vendor/lib64/libdisp-aba.so
+vendor/lib64/libdisplayconfig.so
 vendor/lib64/libdisplayqos.so
 vendor/lib64/vendor.display.color@1.0.so
 vendor/lib64/vendor.display.color@1.1.so
